@@ -2,7 +2,7 @@
 Classroom: https://classroom.google.com/c/NjA4Njk5MzY4MDMz?cjc=aayangq
 ## El siguiente repositorio ha sido creado para compartir lo mostrado en las sesiones.
 ### Introducción a Linux:
-*Sesión realizada el 09/05/2023*
+*Sesión realizada el 09/05/2023*\n
 Link del video: <insertar video>
 
 ### Introducción a Git:
