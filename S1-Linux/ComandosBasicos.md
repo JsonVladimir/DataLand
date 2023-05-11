@@ -1,6 +1,6 @@
 ## Comandos básicos en Linux
 
-Some basic Git commands are:
+Algunos de los comandos vistos en la sesión 1 fueron:
 ```
 ls: sirve para listar los archivos y carpetas de una ruta
 cd: sirve para dirigirnos a una ruta determinada
