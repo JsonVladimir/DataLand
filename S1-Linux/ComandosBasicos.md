@@ -15,4 +15,4 @@ find: para encontrar
 pwd: te indica en qué ruta estás localizado
 clear: borrar o limpiar terminal
 ```
-
+------------------------------------
